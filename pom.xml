@@ -136,7 +136,7 @@
 						<haltOnFailure>false</haltOnFailure>
 						<lineRate>0</lineRate>
 						<branchRate>95</branchRate>
-						<totalLineRate>10</totalLineRate>
+						<totalLineRate>0</totalLineRate>
 						<totalBranchRate>95</totalBranchRate>
 					</check>
 				</configuration>
